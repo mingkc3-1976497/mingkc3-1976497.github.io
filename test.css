@@ -1,0 +1,120 @@
+#Header{
+	width:500px;
+	margin-left:auto;
+	margin-right:auto;
+	margin-bottom:10px;
+	border:solid 8px black;
+	text-align:center;
+	text-shadow: 2px 2px black;
+}
+h1{
+		font-size:60px;
+		font-family:"Passion One";
+		color:#FFBC00;
+		font-weight:bold;
+		text-transform: uppercase;
+}
+div{
+	background-color:#8E41D5;
+}
+
+#LeftNav{
+	width:400px;
+	margin-left:auto;
+	margin-right:auto;
+	margin-bottom:10px;
+	border:solid 8px black;
+	float:left;
+	text-align:center;
+	text-shadow: 2px 2px black;
+	
+}
+ul{
+		list-style-type:none;
+		padding-left:0px;
+		padding-bottom:8px;
+		font-variant: small-caps;
+	}
+h3{
+	color:#FFBC00;
+	font-size:40px;
+	font-family:"Passion One"
+	margin-bottom:0px;
+	text-transform: uppercase;
+}
+div{
+	background-color:#8E41D5;
+}
+a:link{
+	background-color: #490578;
+	color:white;
+	padding: 14px 25px;
+    text-align: center;
+	font-weight:bold;
+	font-size:24px;
+	text-decoration: none;
+    display: inline-block;
+}
+
+#Content{
+	width:700px;
+	margin-left:auto;
+	margin-right:auto;
+	margin-bottom:10px;
+	border:solid 8px black;	
+	text-align:center;
+	text-shadow: 2px 2px black
+}
+ul{
+	padding:15px;
+}
+p{
+	color:white;
+	font-family:"Arial";
+}
+div{
+	background-color:#8E41D5;
+}
+
+#Footer{
+	width:1000px;
+	margin-left:auto;
+	margin-right:auto;
+	margin-bottom:10px;
+	border:solid 8px black;	
+	text-align:center;
+	text-shadow: 2px 2px black
+}
+ul{
+		list-style-type:none;
+		padding-left:0px;
+}
+p{
+	color:white;
+	font-family:"Arial";
+}
+h3{
+	color:#FFBC00;
+	font-size:40px;
+	font-family:"Passion One"
+	margin-bottom:0px;
+}
+div{
+	background-color:#8E41D5;
+}
+a{
+	color:white;
+	font-weight:bold;
+	font-size:24px;
+}
+body{
+	background-image:url('dark_wood.png');
+}
+<head>
+	<title> Keith the QB  </title>
+	<link rel="stylesheet" type="text/css" href="test.css" />
+	<link href='http://fonts.googleapis.com/css?family=Passion+One' rel='stylesheet' type='text/css'>
+</head>
+
+
+
